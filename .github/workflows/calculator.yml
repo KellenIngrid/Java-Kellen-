@@ -1,0 +1,9 @@
+# Variables (Calculator)
+
+var first = prompt ("Enter the first number");
+
+var second = prompt ("Enter the second number");
+
+var sum = Number (first) + Number (second);
+
+alert("The sun is:" + sum);
