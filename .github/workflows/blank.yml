@@ -1,0 +1,9 @@
+var firstName = prompt ("Enter your firts name"); 
+undefined
+var lastName = prompt ("Enter your last name");
+undefined
+firstName
+"Kellen"
+lastName
+"Ingrid"
+
